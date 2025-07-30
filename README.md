@@ -192,4 +192,10 @@ The maximum, minimum, and average chain lengths in the hash table, respectively,
      
 **32.** The minimum number of comparisons required to find the minimum and the maximum of 100
 numbers is _____.
+
+**33.** Consider the following recursive code:
+   fib(n) = if n = 0 then 1
+            else if n = 1 then 1
+            else fib(n-1) + fib(n-2)
+   The number of times fib s is called (including first call) for an evaluation fib(7) is ______.[YEAR 1991 Q10]
 ---
