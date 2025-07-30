@@ -1,9 +1,4 @@
 # Data Structures and Algorithms - MCQ Conceptual Exam
-**Duration: 90 minutes**  
-**Maximum Marks: 30**  
-**All questions are compulsory. Each question carries 1 mark.**
-
----
 
 ## Advanced Conceptual Multiple Choice Questions
 
@@ -186,5 +181,14 @@
    - b) Mathematical induction applicability
    - c) Problem decomposition possibility
    - d) All of the above
+     
+**31.** Consider a hash table with 9 slots. The hash function is h(k)= k % 9 (mod). The collisions are resolved by chaining. The following 9 keys are inserted in the order:
+5, 28, 19, 15, 20, 33, 12, 17,10. 
+The maximum, minimum, and average chain lengths in the hash table, respectively, are [Year 2014 Q40.]
+   - a) 3, 0, 1
+   - b) 3, 3, 3
+   - c) 4, 0, 1
+   - d) 3, 0, 2 
+
 
 ---
