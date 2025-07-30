@@ -188,7 +188,8 @@ The maximum, minimum, and average chain lengths in the hash table, respectively,
    - a) 3, 0, 1
    - b) 3, 3, 3
    - c) 4, 0, 1
-   - d) 3, 0, 2 
-
-
+   - d) 3, 0, 2
+     
+**32.** The minimum number of comparisons required to find the minimum and the maximum of 100
+numbers is _____.
 ---
